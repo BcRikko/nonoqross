@@ -1,0 +1,18 @@
+{
+  "name": "nonoqross",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint-config-bcrikko": "^1.0.1",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.2"
+  }
+}
